@@ -1,2 +1,7 @@
 # aidrivensoc
-ai-driven soc, practical usage of data science/ml
+
+Data Science - potencial usage
+Machine Learning - potencial usage
+
+Linear Regression - potencial usage
+LLM - potencial usage
